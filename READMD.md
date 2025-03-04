@@ -1,4 +1,3 @@
-
 # 🏠 House Price Prediction - Kaggle Competition
 
 ## 📌 프로젝트 개요
@@ -101,6 +100,14 @@ create_submission(best_xgb_model, X_test_preprocessed, test_df, "Tuned_XGBoost")
 - `submission_Tuned_XGBoost.csv` 파일을 **Kaggle에 업로드**하여 평가 결과 확인
 
 ---
+
+1. **LinearRegression**, **RandomForestRegressor**, **XGBoost** 회귀 모델 RMSE 비교 후 제일 좋은 모델 제출
+
+   ![1741094368059](image/READMD/1741094368059.png)
+2. 회귀모델+새 변수 추가하고 하이퍼파라미터튜닝 (VIF줄이면 오히려 모델 정확도가 떨어져서 따로 잡지 않음)
+
+   ![1741094462881](image/READMD/1741094462881.png)
+
 
 ## 💻 실행 방법
 
