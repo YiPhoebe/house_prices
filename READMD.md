@@ -106,4 +106,11 @@ def create_submission(model, X_test, test_df, model_name):
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/submissions#
 
-![주택 가격 예측](images/screenshot.png)
+1. 첫번째 제출
+
+![1741075059857](image/READMD/1741075059857.png)
+
+
+2. 두번째 제출 (하이퍼파라미터 튜닝, 새로운 변수 추가)
+
+![1741075170147](image/READMD/1741075170147.png)
