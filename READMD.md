@@ -110,7 +110,10 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 ![1741075059857](image/READMD/1741075059857.png)
 
-
 2. 두번째 제출 (하이퍼파라미터 튜닝, 새로운 변수 추가)
 
 ![1741075170147](image/READMD/1741075170147.png)
+
+3. 세번째 제출 (기존 코드+추가)
+
+   ![1741091406378](image/READMD/1741091406378.png)
